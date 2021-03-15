@@ -1,0 +1,5 @@
+{
+  "uuid": "%uuid%",
+  "name": "ChatCopper",
+  "mainClass": "pl.wiktorekx.chatcopper.ChatCopper"
+}
